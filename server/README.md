@@ -1,3 +1,6 @@
+Download the data file here: https://drive.google.com/file/d/18i50nuVmmhOKDyQ2d9G-Spqlh76UfI7n/view?usp=sharing
+Place it in the api folder.
+
 # Getting Started on the Server Side
 If you are using windows, you may need to use MINGW/Git Bash
 1. Set up a Python virtual environment and install the required packages by running the setup script:
